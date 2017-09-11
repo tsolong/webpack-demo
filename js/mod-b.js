@@ -1,1 +1,1 @@
-module.exports = 'It work from mod-b.js';
+module.exports = 'It work from mod-b.js88888888';
